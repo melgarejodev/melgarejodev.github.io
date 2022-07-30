@@ -17,8 +17,7 @@ Muitas experiências estão por vir :)
 
 ## Tecnologias utilizadas
 
-- Google domains
-- Canvas (Design)
+- Figma (sob avaliação)
 - Markdown
 - HTML5
 - CSS3
